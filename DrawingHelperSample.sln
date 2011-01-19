@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingHelperSample", "DrawingHelperSample\DrawingHelperSample.csproj", "{592E58CA-744B-4C5C-A259-9DD2A3618C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592E58CA-744B-4C5C-A259-9DD2A3618C77}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{592E58CA-744B-4C5C-A259-9DD2A3618C77}.Debug|iPhone.Build.0 = Debug|iPhone
+		{592E58CA-744B-4C5C-A259-9DD2A3618C77}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{592E58CA-744B-4C5C-A259-9DD2A3618C77}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{592E58CA-744B-4C5C-A259-9DD2A3618C77}.Release|iPhone.ActiveCfg = Release|iPhone
+		{592E58CA-744B-4C5C-A259-9DD2A3618C77}.Release|iPhone.Build.0 = Release|iPhone
+		{592E58CA-744B-4C5C-A259-9DD2A3618C77}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{592E58CA-744B-4C5C-A259-9DD2A3618C77}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DrawingHelperSample\DrawingHelperSample.csproj
+	EndGlobalSection
+EndGlobal
